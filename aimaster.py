@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token
-BOT_TOKEN = "000000000000:XXXXXXXXXXXXXXXXXXXXXX"
+BOT_TOKEN = "8838315791:AAEq2jVG3s_PuHmiiNLNT9y5iXIEceDwY-A"
 
 # Statistics
 stats = {
